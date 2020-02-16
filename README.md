@@ -11,16 +11,17 @@ There are five models are compared
 * ConvNet+LSTM model
 
 source code:
-** Example of one predicting model 
-** Comparison of all trained models
+* data_visualization.ipynb  Preview the columns of collected data
+* LSTM.ipynb  Example of one predicting model 
+* Model Comparison.ipynb  of all trained models
 
 For more descriptiion, please check the pdf paper
 
 models are running on jupyter notebook 2.0 and written in python language
 
-** necessary libraries 
-** matplotlib
-** numpy
-** tensorflow-gru
-** keras
+* necessary libraries 
+* matplotlib
+* numpy
+* tensorflow-gru
+- keras
 
