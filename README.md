@@ -10,13 +10,17 @@ There are five models are compared
 * ConvNet+GRU model
 * ConvNet+LSTM model
 
-source code contains example of one predicting model and comparison of all trained models
+source code:
+** Example of one predicting model 
+** Comparison of all trained models
+
+For more descriptiion, please check the pdf paper
 
 models are running on jupyter notebook 2.0 and written in python language
 
-necessary libraries 
-matplotlib
-numpy
-tensorflow-gru
-keras
+** necessary libraries 
+** matplotlib
+** numpy
+** tensorflow-gru
+** keras
 
