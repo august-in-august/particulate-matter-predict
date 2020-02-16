@@ -10,18 +10,22 @@ There are five models are compared
 * ConvNet+GRU model
 * ConvNet+LSTM model
 
-source code:
+## source code:
+
 * data_visualization.ipynb  Preview the columns of collected data
 * LSTM.ipynb  Example of one predicting model 
 * Model Comparison.ipynb  of all trained models
 
-For more descriptiion, please check the pdf paper
+For more descriptiion, please check the [paper](https://github.com/timfree/particulate-matter-predict/blob/master/%E1%84%86%E1%85%B5%E1%84%89%E1%85%A6%E1%84%86%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%A8%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20%E1%84%87%E1%85%B5%E1%84%80%E1%85%AD.pdf)
 
 models are running on jupyter notebook 2.0 and written in python language
 
-* necessary libraries 
+## necessary libraries 
+
 * matplotlib
 * numpy
 * tensorflow-gru
-- keras
+* keras
+* pandas
+* scikit-learn
 
