@@ -22,10 +22,12 @@ models are running on jupyter notebook 2.0 and written in python language
 
 ## necessary libraries 
 
-* matplotlib
-* numpy
-* tensorflow-gru
-* keras
-* pandas
-* scikit-learn
-
+h5py == 2.10.0    
+jupyterlab == 1.2.4     
+Keras == 2.3.1     
+matplotlib == 3.1.3     
+numpy == 1.17.4    
+pandas == 0.25.3    
+scikit-learn == 0.22.1    
+scipy == 1.4.1     
+tensorflow == 2.1.0     
